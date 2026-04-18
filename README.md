@@ -1,32 +1,11 @@
-<div align="center">
-  <img src="fastlane/metadata/android/en-US/images/icon.png" style="width: 30%;" />
-  <h2>QuestPhone</h2>
 
-  <a href="https://github.com/questphone/questphone/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/questphone/questphone" alt="GitHub contributors" />
-  </a><!--  -->
-  <a href="https://discord.gg/RGuqaMHxAw">
-    <img src="https://img.shields.io/badge/Discord%20Server-white?style=flat&logo=discord" alt="Discord Server" />
-  </a>
-  <a href="https://t.me/questphone">
-    <img src="https://img.shields.io/badge/Telegram%20Group-blue?style=flat&logo=telegram" alt="Telegram Group" />
-  </a>
-  <a href="https://github.com/questphone/questphone/releases">
-    <img src="https://img.shields.io/github/downloads/questphone/questphone/total" alt="Total Downloads" />
-  </a>
-  <a href="https://github.com/questphone/questphone">
-    <img src="https://img.shields.io/github/repo-size/questphone/questphone" alt="Repository Size" />
-  </a>
-</div>
-
----
 
 **QuestPhone** is an open-source Android productivity utility designed to help users reduce screen addiction by regulating app usage through a gamified experience. The application blocks distracting apps and unlocks them only once the user completes all their work.
 
-It was started in April 2024 under the name *[DigipawsFull Project](https://www.github.com/nethical6/digipaws)* and is now continued as *QuestPhone*.
+It was started in April 2024 and is now continued
 
 > [!CAUTION]
-> This project is experimental and not yet ready for full production. [Donate](https://digipaws.life/donate)
+> This project is experimental and not yet ready for full production.
 
 ---
 
@@ -58,23 +37,11 @@ Click on any image to enlarge.
 
 ---
 
-## 🔌 Integrations
 
-Integrations are how your quests get verified. 
-Press on any title to get a detailed explanation about them
-
-- **[Health Connect](https://github.com/QuestPhone/docs/blob/main/integration/HealthConnect.md)**: Connects to your fitness watch or reads data from other apps.
-- **[AI Snap](https://github.com/QuestPhone/docs/blob/main/integration/AiSnap.md)**: Prompts users to snap a photo after completing the task.
-- **[Deep Focus](https://github.com/QuestPhone/docs/blob/main/integration/DeepFocus.md)**: Blocks all but selected apps for focused time.
-- **[Swift Mark](https://github.com/QuestPhone/docs/blob/main/integration/HealthConnect.md)**: Simple tap-to-complete mode with no strict verification.
-- **External Integration**: Connect external apps to questphone
-
----
 
 ## 📝 Todo
 
 - [x] Add an API for other developers to turn their apps into quests.
-- [ ] Add friends and social features.
 - [x] AI-generated motivational reminders.
 
 ## Features
@@ -86,7 +53,7 @@ Press on any title to get a detailed explanation about them
 - Supports external integrations via the questphone api
 - Screentime statistics
 - Quest Statistics
-- Shareable profiles [example](https://questphone.app/@nethical)
+- Shareable profiles [example]
 - Cool Animations
 
 ## FAQ
